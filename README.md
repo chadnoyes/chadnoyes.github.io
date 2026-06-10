@@ -22,19 +22,11 @@ Pictures and link to paper
 
 
 
-### FEM Class
-
-Designed and analyzed a shell-and-tube heat exchanger using SolidWorks and MATLAB.
-
-📄 [View Full Report](projects/Heat_Exchanger_Report.pdf)
-
----
 
 ### Mechatronics Project 5
 
 Performed finite element analysis to evaluate wing stresses and deflections.
 
-📄 [View Full Report](projects/Wing_Analysis_Report.pdf)
 
 ---
 
@@ -45,11 +37,22 @@ Performed finite element analysis to evaluate wing stresses and deflections.
 
 ### Senior Design Project Virginia Tech
 
-Developed and tested a mechanical system to meet project requirements.
+Aerodynamics Lead 1st Place Prize. 
 
 📄 [View Full Report](projects/Senior_Design_Report.pdf)
 
 ---
+
+
+### Applications of FEM 
+Florida Tech Fall 2025
+
+
+📄 [View Full Report](projects/Heat_Exchanger_Report.pdf)
+
+---
+
+
 
 ## Contact
 
