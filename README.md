@@ -18,11 +18,16 @@ Designed and built a vertically traversing hypersonic pitot-static tube for the 
 
 #### Pictures:
 
-<img src="assets/images/turbine.png" width="500">
+<img src="pitot.png" width="500">
 
-<img src="assets/images/turbine.png" width="500">
+<img src="pitotFEM.png" width="500">
 
-<img src="assets/images/turbine.png" width="500">
+<img src="pitotASSEM.png" width="500">
+
+<img src="IMG_1749.jpeg" width="500">
+<img src="IMG_1752.jpeg" width="500">
+<img src="IMG_1760.jpeg" width="500">
+<img src="IMG_1780.jpeg" width="500">
 
 ### Senior Design Project Virginia Tech 
 
