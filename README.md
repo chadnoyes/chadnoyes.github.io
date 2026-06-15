@@ -75,9 +75,6 @@ Used ANSYS topology optimization to minimize weight and improve structural effic
 
 ## Contact
 
-Email: chadnoyes@vt.edu
-Phone: 609-602-6242
-
-- Email: your.email@example.com
-- LinkedIn: https://linkedin.com/in/your-profile
-- GitHub: https://github.com/chadnoyes
+- Email: chadnoyes@vt.edu
+- Phone: 609-602-6242 
+- LinkedIn: https://linkedin.com/in/chad-noyes
