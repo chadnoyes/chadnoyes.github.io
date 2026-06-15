@@ -6,7 +6,7 @@ Aerospace Engineering Masters Student at Florida Tech
 
 ## Resume
 
-📄 [Download Resume](resume.pdf)
+📄 [Download Resume](Chad_Noyes_Resume.pdf)
 
 ---
 
@@ -21,27 +21,27 @@ Publication:
 P. Chhabra, C. Heller, B. Hollis, and M. Varghese, "Effect of Inflow Disturbances on Dynamic Stall Characteristics of an Oscillating Diamond Airfoil in Hypersonic Flow," AIAA SciTech 2026 Forum, Paper 2026-0870. https://doi.org/10.2514/6.2026-0870
 
 #### Pictures:
-<img src="pitot.png" height="400">
+<img src="pitot.png" height="300">
 
 CAD model of the pitot tube.
 
-<img src="pitotFem.png" height="400">
+<img src="pitotFem.png" height="300">
 
 Structural finite element analysis (FEA) of the pitot tube.
 
-<img src="pitotAssem.png" height="400">
+<img src="pitotAssem.png" height="300">
 
 Complete traverse and pitot tube assembly.
 
-<img src="IMG_1749.jpeg" height="400">
+<img src="IMG_1749.jpeg" height="300">
 
 Pitot tube installed in the wind tunnel and aligned with the datum.
 
-<img src="IMG_1752.jpeg" height="400">
+<img src="IMG_1752.jpeg" height="300">
 
 Pitot tube removed from the wind tunnel.
 
-<img src="IMG_1780.JPG" height="400">
+<img src="IMG_1780.JPG" height="300">
 
 Pitot tube mounted on the hypersonic wind tunnel.
 
