@@ -28,6 +28,8 @@ D. L. Daniels, B. Tomer, G. Hunt, N. Davis, and L. Joseph, "Characterizing the M
 - Performed FEA to evaluate stresses and structural compliance.
 - Designed a vertical traverse mechanism to obtain multiple pressure measurements during a single wind tunnel firing.
 - Integrated the traverse with the existing LabVIEW data acquisition system.
+
+
 #### Engineering Challenges
 - Six-week schedule from concept to operational hardware.
 - Designing a compact traverse mechanism that fit within the limited space of the hypersonic wind tunnel test section.
@@ -36,11 +38,15 @@ D. L. Daniels, B. Tomer, G. Hunt, N. Davis, and L. Joseph, "Characterizing the M
 - Completing the project within a limited research budget.
 - Mechanical, electrical, and software integration with the existing LabVIEW DAQ system.
 - Achieving repeatable probe positioning within the wind tunnel.
+
+
 #### Manufacturing & Build
 - Pitot probe manufactured via commercial 3D printing.
 - Worked with labrotory machine shop for remaining manufacturing.
 - Integrated stepper-driven traverse, mounting hardware, and instrumentation.
 - Performed final assembly and integration of the entire traverse system.
+
+
 #### Results
 - Successfully deployed for hypersonic testing.
 - Captured inflow survey measurements throughout the test section.
@@ -83,19 +89,27 @@ Led aerodynamics analysis and design efforts for a multidisciplinary senior desi
 - Performed aerodynamic sizing and trade studies.
 - Evaluated wing planform and configuration alternatives.
 - Iterated designs to meet performance requirements while coordinating with structures and weight estimation teams.
-- Evaluated aerodynamic characteristics throughout the design process
+- Evaluated aerodynamic characteristics throughout the design process.
+
+
 #### Engineering Challenges
 - Maintaining aerodynamic performance as aircraft weight and balance evolved.
 - Balancing competing objectives including range, stability, and stealth.
 - Minimizing redesign as other subsystems matured.
 - Coordinating changes across a multidisciplinary engineering team.
+
+
 #### Build
 - Produced complete aircraft design package.
 - Generated performance analyses and technical justification.
 - Presented design to faculty and industry judges.
+
+
 #### Results
 - Team awarded 1st Place among senior design projects.
 - Final configuration met performance objectives while satisfying multidisciplinary design constraints.
+
+
 
 
 📄 [View Full Report](AOE_4066_Final_Report_Team_2.pdf)
