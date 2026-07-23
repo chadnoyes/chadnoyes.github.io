@@ -21,6 +21,7 @@ Publication:
 
 D. L. Daniels, B. Tomer, G. Hunt, N. Davis, and L. Joseph, "Characterizing the Mach 6 Flow of Virginia Tech's Hypersonic Wind Tunnel," AIAA SCITECH 2026 Forum, Orlando, FL, Jan. 12–16, 2026, Paper AIAA 2026-0870. https://doi.org/10.2514/6.2026-0870
 
+
 #### Design & Analysis
 - Designed the pitot-static probe geometry for hypersonic testing.
 - Performed CFD to estimate aerodynamic loading.
