@@ -6,7 +6,7 @@ Aerospace Engineering Masters Student at Florida Institute of Technology
 
 ## Resume
 
-📄 [Download Resume](Chad_Noyes_Resume.pdf)
+📄 [View Resume](Chad_Noyes_Resume.pdf)
 
 ---
 
