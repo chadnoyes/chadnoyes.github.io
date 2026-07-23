@@ -25,15 +25,17 @@ Designed and fabricated a vertically traversing hypersonic pitot-static probe fo
 - Integrated the traverse with the existing LabVIEW data acquisition system.
 #### Engineering Challenges
 - Six-week schedule from concept to operational hardware.
-- Structural stiffness while minimizing probe size.
-- Operation in a hypersonic wind tunnel environment.
-- Mechanical, electrical, and software integration with the existing DAQ system.
-- Repeatable positioning within the wind tunnel.
+- Designing a compact traverse mechanism that fit within the limited space of the hypersonic wind tunnel test section.
+- Designing a traverse lid assembly that maintained the vacuum integrity of the test chamber while supporting the traversing mechanism.
+- Balancing structural stiffness with a low-profile design.
+- Completing the project within a limited research budget.
+- Mechanical, electrical, and software integration with the existing LabVIEW DAQ system.
+- Achieving repeatable probe positioning within the wind tunnel.
 #### Manufacturing & Build
 - Pitot probe manufactured via commercial 3D printing.
-- Remaining hardware machined and assembled in the PHASE laboratory machine shop.
+- Worked with labrotory machine shop for remaining manufacturing.
 - Integrated stepper-driven traverse, mounting hardware, and instrumentation.
-- Installed and commissioned in the hypersonic wind tunnel.
+- Performed final assembly and integration of the entire traverse system.
 #### Results
 - Successfully deployed for hypersonic testing.
 - Captured inflow survey measurements throughout the test section.
@@ -75,42 +77,42 @@ Pitot tube mounted on the hypersonic wind tunnel.
 Led aerodynamics analysis and design efforts for a multidisciplinary senior design team project. Contributed to overall system performance and helped guide the team to a 1st place award.
 
 #### Design & Analysis
-Performed aerodynamic sizing and trade studies.
-Evaluated wing planform and configuration alternatives.
-Analyzed payload-range tradeoffs.
-Iterated designs to meet performance requirements while coordinating with structures and weight estimation teams.
+- Performed aerodynamic sizing and trade studies.
+- Evaluated wing planform and configuration alternatives.
+- Iterated designs to meet performance requirements while coordinating with structures and weight estimation teams.
+- Evaluated aerodynamic characteristics throughout the design process
 #### Engineering Challenges
-Maintaining aerodynamic performance as aircraft weight evolved.
-Balancing competing objectives including range, stability, and stealth.
-Minimizing redesign as other subsystems matured.
-Coordinating changes across a multidisciplinary engineering team.
+- Maintaining aerodynamic performance as aircraft weight and balance evolved.
+- Balancing competing objectives including range, stability, and stealth.
+- Minimizing redesign as other subsystems matured.
+- Coordinating changes across a multidisciplinary engineering team.
 #### Build
-Produced complete aircraft design package.
-Generated performance analyses and technical justification.
-Presented design to faculty and industry judges.
+- Produced complete aircraft design package.
+- Generated performance analyses and technical justification.
+- Presented design to faculty and industry judges.
 #### Results
-Team awarded 1st Place among senior design projects.
-Final configuration met performance objectives while satisfying multidisciplinary design constraints.
+- Team awarded 1st Place among senior design projects.
+- Final configuration met performance objectives while satisfying multidisciplinary design constraints.
 
 
 📄 [View Full Report](AOE_4066_Final_Report_Team_2.pdf)
 
 ### Mechatronics Project 5
-*Florida Tech · Spring 2026*
+*Florida Institute of Technology · Spring 2026*
 
 Designed and implemented an optimized Linear Quadratic Regulator (LQR) controller for a DC motor system, analyzing closed-loop performance and control response.
 
 📄 [View Full Report](prog5ChadNoyes.pdf)
 
 ### Composites Project
-*Florida Tech · Spring 2026*
+*Florida Institute of Technology · Spring 2026*
 
 Performed finite element analysis to investigate the thermal buckling behavior of composite plates.
 
 📄 [View Full Report](Composites_Report.pdf)
 
 ### Topology Optimization of a Rotating Blade
-*Florida Tech · Fall 2025*
+*Florida Institute of Technology · Fall 2025*
 
 Used ANSYS topology optimization to minimize weight and improve structural efficiency of a rotating blade while maintaining performance requirements.
 
