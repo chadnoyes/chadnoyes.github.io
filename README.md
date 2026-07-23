@@ -93,19 +93,6 @@ Team awarded 1st Place among senior design projects.
 Final configuration met performance objectives while satisfying multidisciplinary design constraints.
 
 
-design/analysis, 
-
-Performed Trade Studies on Wing Design, configuration, Payload/Range
-Ensured design iterations met aerodynamic/performance requirements
-
-challenges to the design, 
-
-Minimizing changes to wing desing/configuration as weight/balance numbers refined by other team. Trading design objectives such as stealth, and stability. 
-
-manufacturing/build and results/success
-
-Full proposal presented to judges, won first place prize. 
-
 📄 [View Full Report](AOE_4066_Final_Report_Team_2.pdf)
 
 ### Mechatronics Project 5
