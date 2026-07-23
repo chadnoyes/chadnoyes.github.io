@@ -17,6 +17,10 @@ Hypersonic Pitot-Static Probe Design – PHASE Research Group, Virginia Tech
 
 Designed and fabricated a vertically traversing hypersonic pitot-static probe for the PHASE Research Group at Virginia Tech. The instrument was subsequently used to characterize inflow uniformity in the Hypersonic Wind Tunnel, supporting research published in AIAA SciTech 2026 Forum (Paper No. 2026-0870). Contributions to the project were recognized in the paper's acknowledgements.
 
+Publication:
+
+D. L. Daniels, B. Tomer, G. Hunt, N. Davis, and L. Joseph, "Characterizing the Mach 6 Flow of Virginia Tech's Hypersonic Wind Tunnel," AIAA SCITECH 2026 Forum, Orlando, FL, Jan. 12–16, 2026, Paper AIAA 2026-0870. https://doi.org/10.2514/6.2026-0870
+
 #### Design & Analysis
 - Designed the pitot-static probe geometry for hypersonic testing.
 - Performed CFD to estimate aerodynamic loading.
@@ -43,8 +47,6 @@ Designed and fabricated a vertically traversing hypersonic pitot-static probe fo
 - Supported research published in AIAA SciTech 2026 (Paper 2026-0870)
 
 
-Publication:
-P. Chhabra, C. Heller, B. Hollis, and M. Varghese, "Effect of Inflow Disturbances on Dynamic Stall Characteristics of an Oscillating Diamond Airfoil in Hypersonic Flow," AIAA SciTech 2026 Forum, Paper 2026-0870. https://doi.org/10.2514/6.2026-0870
 
 #### Pictures:
 <img src="pitot.png" height="300">
