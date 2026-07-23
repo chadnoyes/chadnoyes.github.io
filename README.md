@@ -1,6 +1,6 @@
 # Chad Noyes
 
-Aerospace Engineering Masters Student at Florida Tech
+Aerospace Engineering Masters Student at Florida Institute of Technology
 
 ---
 
