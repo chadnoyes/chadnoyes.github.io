@@ -17,6 +17,30 @@ Hypersonic Pitot-Static Probe Design – PHASE Research Group, Virginia Tech
 
 Designed and fabricated a vertically traversing hypersonic pitot-static probe for the PHASE Research Group at Virginia Tech. The instrument was subsequently used to characterize inflow uniformity in the Hypersonic Wind Tunnel, supporting research published in AIAA SciTech 2026 Forum (Paper No. 2026-0870). Contributions to the project were recognized in the paper's acknowledgements.
 
+#### Design & Analysis
+- Designed the pitot-static probe geometry for hypersonic testing.
+- Performed CFD to estimate aerodynamic loading.
+- Performed FEA to evaluate stresses and structural compliance.
+- Designed a vertical traverse mechanism to obtain multiple pressure measurements during a single wind tunnel firing.
+- Integrated the traverse with the existing LabVIEW data acquisition system.
+#### Engineering Challenges
+- Six-week schedule from concept to operational hardware.
+- Structural stiffness while minimizing probe size.
+- Operation in a hypersonic wind tunnel environment.
+- Mechanical, electrical, and software integration with the existing DAQ system.
+- Repeatable positioning within the wind tunnel.
+#### Manufacturing & Build
+- Pitot probe manufactured via commercial 3D printing.
+- Remaining hardware machined and assembled in the PHASE laboratory machine shop.
+- Integrated stepper-driven traverse, mounting hardware, and instrumentation.
+- Installed and commissioned in the hypersonic wind tunnel.
+#### Results
+- Successfully deployed for hypersonic testing.
+- Captured inflow survey measurements throughout the test section.
+- Reliable operation during wind tunnel campaigns.
+- Supported research published in AIAA SciTech 2026 (Paper 2026-0870)
+
+
 Publication:
 P. Chhabra, C. Heller, B. Hollis, and M. Varghese, "Effect of Inflow Disturbances on Dynamic Stall Characteristics of an Oscillating Diamond Airfoil in Hypersonic Flow," AIAA SciTech 2026 Forum, Paper 2026-0870. https://doi.org/10.2514/6.2026-0870
 
@@ -49,6 +73,38 @@ Pitot tube mounted on the hypersonic wind tunnel.
 *Aerodynamics Lead · Team won 1st place prize*
 
 Led aerodynamics analysis and design efforts for a multidisciplinary senior design team project. Contributed to overall system performance and helped guide the team to a 1st place award.
+
+#### Design & Analysis
+Performed aerodynamic sizing and trade studies.
+Evaluated wing planform and configuration alternatives.
+Analyzed payload-range tradeoffs.
+Iterated designs to meet performance requirements while coordinating with structures and weight estimation teams.
+#### Engineering Challenges
+Maintaining aerodynamic performance as aircraft weight evolved.
+Balancing competing objectives including range, stability, and stealth.
+Minimizing redesign as other subsystems matured.
+Coordinating changes across a multidisciplinary engineering team.
+#### Build
+Produced complete aircraft design package.
+Generated performance analyses and technical justification.
+Presented design to faculty and industry judges.
+#### Results
+Team awarded 1st Place among senior design projects.
+Final configuration met performance objectives while satisfying multidisciplinary design constraints.
+
+
+design/analysis, 
+
+Performed Trade Studies on Wing Design, configuration, Payload/Range
+Ensured design iterations met aerodynamic/performance requirements
+
+challenges to the design, 
+
+Minimizing changes to wing desing/configuration as weight/balance numbers refined by other team. Trading design objectives such as stealth, and stability. 
+
+manufacturing/build and results/success
+
+Full proposal presented to judges, won first place prize. 
 
 📄 [View Full Report](AOE_4066_Final_Report_Team_2.pdf)
 
